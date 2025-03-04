@@ -65,7 +65,7 @@
         javac Main.java
         ```
     5. 以下のコマンドでJARファイルを生成
-     ```bash
+        ```bash
         jar cfm Main.jar manifest.txt *.class *.java *.png *.wav
         ```
 

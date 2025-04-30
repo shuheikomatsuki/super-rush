@@ -69,7 +69,7 @@
         jar cfm Main.jar manifest.txt *.class *.java *.png *.wav
         ```
 
-## GIF/mp4
+## gif/mp4
 
 [ゲームのデモ画像](demo.gif)
 [ゲームのデモ動画](demo.mp4)
